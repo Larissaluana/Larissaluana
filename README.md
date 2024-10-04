@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Larissa Luana 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/](https://www.instagram.com/docinho.larii/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][([https://www.instagram.com/ (https://www.instagram.com/docinho.larii/)]
 
 ![Larii GitHub stats](https://github-readme-stats.vercel.app/api?username=Larissaluana&show_icons=true&theme=dracula)
 
